@@ -1,0 +1,11 @@
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\bin\Debug\netcoreapp2.0\RealSuperWeb.deps.json
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\bin\Debug\netcoreapp2.0\RealSuperWeb.runtimeconfig.json
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\bin\Debug\netcoreapp2.0\RealSuperWeb.runtimeconfig.dev.json
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\bin\Debug\netcoreapp2.0\RealSuperWeb.dll
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\bin\Debug\netcoreapp2.0\RealSuperWeb.pdb
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\obj\Debug\netcoreapp2.0\RealSuperWeb.csprojAssemblyReference.cache
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\obj\Debug\netcoreapp2.0\RealSuperWeb.csproj.CoreCompileInputs.cache
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\obj\Debug\netcoreapp2.0\RealSuperWeb.AssemblyInfoInputs.cache
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\obj\Debug\netcoreapp2.0\RealSuperWeb.AssemblyInfo.cs
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\obj\Debug\netcoreapp2.0\RealSuperWeb.dll
+C:\Users\Beymar\source\repos\RealSuperWebsito\RealSuperWeb\obj\Debug\netcoreapp2.0\RealSuperWeb.pdb
